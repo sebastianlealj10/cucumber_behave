@@ -1,4 +1,5 @@
 from behave import *
+from behave import given, when, then
 
 
 @given('we have behave installed')
